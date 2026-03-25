@@ -21,6 +21,7 @@ For professional repos, go with clear and structured messages — but a little h
     - [🎮 11. Gaming](#-11-gaming)
     - [🎵 12. Music](#-12-music)
     - [📖 13. Books](#-13-books)
+    - [🤓 14. Standard/Professional](#-14-standardprofessional)
 
 
 ### 🚀 1. The Classic "Oops" Series
@@ -121,3 +122,12 @@ For professional repos, go with clear and structured messages — but a little h
 - Call me Ishmael… but this bug’s on you – *Moby-Dick*  
 - All bugs are equal, but some are more equal than others – *Animal Farm*  
 - So long, and thanks for all the bugs – *The Hitchhiker's Guide to the Galaxy*  
+
+### 🤓 14. Standard/Professional
+
+- feat: A new feature.
+- fix: A bug fix.
+- docs: Documentation changes.
+- style: Formatting, missing semicolons, etc. (no code change).
+- refactor: Code changes that neither fix a bug nor add a feature.
+- chore: Updating build tasks, package manager configs, etc..

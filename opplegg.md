@@ -1,13 +1,12 @@
-<!-- Flytt ut av secrets etter opplegget -->
 # Velkommen til Git Good 🌱
 
 - Ka Thas
 - Robotikk 4. året
-- Gruppelærer IN2010, IN2140, IN1080, IN1000
+- Gruppelærer IN1160, IN2010, IN2140, IN1080, IN1000
 - Ansatt på Sonen for Eksperimentell Informatikk
 - FUI styremedlem
 
-## Menti.com
+
 
 Still spørsmål underveis!11!!!!!
 Rekk opp hånden, din feiging
@@ -28,7 +27,7 @@ Relevant for
 - Arbeidslivet ←
   - Alle jobbintervjuer spør om du har kjennskap til git og tester forståelsen din av git som et verktøy
 
-### Hva er git?
+## Hva er git?
 
 Et verktøy som løser et problem
 
@@ -57,7 +56,7 @@ Fun facts
 
 ![Linus](assets/Linus.png)
 
-### Hva er GitHub da?
+## Hva er GitHub da?
 
 - Kun en nettside/server som tar vare på filene dine
 - Du kan ha *videoer* uten YouTube, right?
@@ -65,7 +64,6 @@ Fun facts
 - Har brukere/profiler
 - forks
 
-![git](assets/Git_icon.png)
 ![GitHub](assets/github-mark-white.png)
 
 ## Hvordan *jeg* bruker Git
@@ -104,15 +102,13 @@ Veeeldig lite. Så vidt dyppe tærne.
 - Hvordan bruker *jeg* det
 - <https://github.com/ka-thas/in2140-oblig/network>
 
-### Merge Conflicts
-
-Dette dekker Stian på Intermediate kurset
+## Merge Conflicts
 
 Dere kommer til å møte på dette. Selv hvis dere jobber alene på flere branches
 
 Hvordan unngår man det?
 
-- Unngå å variabelnavn som brukes i flere deler av koden din. Vær spesielt forsiktig med "search and replace"
+- Unngå å endre variabelnavn som brukes i flere deler av koden din. Vær spesielt forsiktig med "search and replace"
 - Be til gitgudene
 - Ha tunga rett i munnen når dette skjer
 
