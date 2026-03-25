@@ -28,6 +28,8 @@ Relevant for
   - Alle jobbintervjuer spør om du har kjennskap til git og tester forståelsen din av git som et verktøy
 
 ## Hva er git?
+endring endring endring
+
 
 Et verktøy som løser et problem
 
@@ -43,6 +45,8 @@ Et verktøy som løser et problem
 
 ![](assets/mario.jpg)
 Hver git *commit* har samme formål som flagget i Mario. Når du dør så kan du fortsette fra flagget, som er mye deiligere enn å starte fra starten av banen.
+mer endring
+
 ![](assets/time-travel.jpg)
 Git kan også minne om tidsreise. 
 
