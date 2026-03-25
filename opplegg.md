@@ -136,4 +136,3 @@ Hvordan unngår man det?
 ## Closing words
 
 Håper dere har lært noe nytt, og blitt litt flittigere med git ~
-
