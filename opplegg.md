@@ -11,7 +11,7 @@
 Still spørsmål underveis!11!!!!!
 Rekk opp hånden, din feiging
 
-## Hvorfor lære Git?
+# Hvorfor lære Git?
 
 Relevant for
 
@@ -27,7 +27,7 @@ Relevant for
 - Arbeidslivet ←
   - Alle jobbintervjuer spør om du har kjennskap til git og tester forståelsen din av git som et verktøy
 
-## Hva er git?
+# Hva er git?
 endring endring endring
 
 
@@ -60,7 +60,7 @@ Fun facts
 
 ![Linus](assets/Linus.png)
 
-## Hva er GitHub da?
+# Hva er GitHub da?
 
 - Kun en nettside/server som tar vare på filene dine
 - Du kan ha *videoer* uten YouTube, right?
@@ -70,7 +70,7 @@ Fun facts
 
 ![GitHub](assets/github-mark-white.png)
 
-## Hvordan *jeg* bruker Git
+# Hvordan *jeg* bruker Git
 
 - Skal man bruke github.uio.no eller github.com?
   - mister tilgang på UiO-githuben når man går ut av UiO
@@ -79,7 +79,7 @@ Fun facts
 - Struktur på repoene mine
 - VSCode
 
-## Hands-on practice
+# Hands-on practice
 
 Learn by doing AKA. Fuck around and find out
 
@@ -87,26 +87,26 @@ Dette er tross alt en workshop, så jeg skal ikke stå her og yappe hele dagen
 
 Hjelp naboen hvis de står fast
 
-## Oppgave 1
+# Oppgave 1
 
 [oppgaveteksten](./oppgaver.md/#level-1---baby-steps-)
 
-## Litt om .git mappen og .gitignore
+# Litt om .git mappen og .gitignore
 
 Veeeldig lite. Så vidt dyppe tærne.
 
-## Oppgave 2
+# Oppgave 2
 
 [oppgaveteksten](./oppgaver.md/#level-2---samarbeid-med-git-)
 
-## Branching
+# Branching
 
 - Hva er branching
 - Hva brukes det til
 - Hvordan bruker *jeg* det
 - <https://github.com/ka-thas/in2140-oblig/network>
 
-## Merge Conflicts
+# Merge Conflicts
 
 Dere kommer til å møte på dette. Selv hvis dere jobber alene på flere branches
 
@@ -118,7 +118,7 @@ Hvordan unngår man det?
 
 ![eksempel på merge conflict](assets/image2.png)
 
-## Git-veien videre
+# Git-veien videre
 
 - Lag et repo for hvert semester/emne/oblig
   - avhengig av hvor mye du vil øve
@@ -133,6 +133,6 @@ Hvordan unngår man det?
 > [!TIP]
 > Din friendly neighborhood LLM kan også lære deg git kommandoer
 
-## Closing words
+# Closing words
 
 Håper dere har lært noe nytt, og blitt litt flittigere med git ~
